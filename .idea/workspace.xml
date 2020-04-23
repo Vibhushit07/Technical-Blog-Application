@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bc02f05-7c2d-4aec-8066-a0dddda74090" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vibhushit/technicalblog/service/PostService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vibhushit/technicalblog/TechnicalBlogApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vibhushit/technicalblog/TechnicalBlogApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vibhushit/technicalblog/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vibhushit/technicalblog/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vibhushit/technicalblog/TechnicalBlogApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vibhushit/technicalblog/TechnicalBlogApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vibhushit/technicalblog/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vibhushit/technicalblog/controller/HomeController.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +33,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1auq7mvY0ggkFpch8z7dWp1NU0d" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
